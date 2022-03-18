@@ -1,0 +1,38 @@
+{
+    "Customers" : [
+        
+        {
+            "name" : "Jinx",
+            "contact" : 125556789,
+            "address" : "K.S. Layout",
+            "lat" : "12.998773",
+            "lng" : "77.576408",
+            "timing" : "10:00-10:30"
+        },
+        {
+            "name" : "Jinx",
+            "contact" : 125556789,
+            "address" : "K.S. Layout",
+            "lat" : "12.998773",
+            "lng" : "77.576408",
+            "timing" : "10:30-11:00"
+        },
+        {
+            "name" : "Jinx",
+            "contact" : 125556789,
+            "address" : "K.S. Layout",
+            "lat" : "12.998773",
+            "lng" : "77.576408",
+            "timing" : "11:00-12:30"
+        },
+        {
+            "name" : "Jinx",
+            "contact" : 125556789,
+            "address" : "K.S. Layout",
+            "lat" : "12.998773",
+            "lng" : "77.576408",
+            "timing" : "13:00-13:30"
+        }
+        
+    ]
+}
